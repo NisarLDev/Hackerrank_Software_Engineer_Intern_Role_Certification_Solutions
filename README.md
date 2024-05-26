@@ -26,12 +26,6 @@ https://yt.artemislena.eu/search?q=python+hackerrank+question
 python getMaxValue hackerrank - Invidious
 https://yt.artemislena.eu/search?q=python+getMaxValue+hackerrank+
 
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
-
 HackerRank 2D array
 https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
 
@@ -65,8 +59,6 @@ https://github.com/MarkusFriemann/HackerRank/blob/main/New%20Companies
 Youngest Employees sql - YouTube
 https://www.youtube.com/results?search_query=Youngest+Employees+sql
 
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
 
 database - MySQL query to find the name and age of the youngest employee in each department - Stack Overflow
 https://stackoverflow.com/questions/15530947/mysql-query-to-find-the-name-and-age-of-the-youngest-employee-in-each-department
@@ -95,8 +87,6 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 i-am-stark/hackerrank_certification: Programming solution for Hackerrank certification questions. Language: Python3
 https://github.com/i-am-stark/hackerrank_certification
 
-Startpage Resultados de la búsqueda
-https://www.startpage.com/sp/search
 
 HackerRank-Solutions/SQL/6_Alternate Queries at master · BlakeBrown/HackerRank-Solutions
 https://github.com/BlakeBrown/HackerRank-Solutions/tree/master/SQL/6_Alternate%20Queries
