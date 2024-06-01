@@ -8,7 +8,8 @@
 
 https://github.com/thinhphan1122/HackerRank-Software-Engineer-Intern-Role-Test/blob/main/Question2%263%264/question3%264.txt
 
-Day 5: Loops | HackerRank
+2 - Day 5: Loops | HackerRank
+
 https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
 
 Software-Engineer-Role-Certification-Test-HackerRank/Scheduling Errors/Scheduling Errors.sql at main · hoanganhminh/Software-Engineer-Role-Certification-Test-HackerRank
