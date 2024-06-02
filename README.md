@@ -197,3 +197,10 @@ https://yt.artemislena.eu/playlist?list=PL_8jNcohs27XQfEmWAHCgLFqpsNaWxUSe
 Learn Python The HackerRank way - Invidious
 https://yt.artemislena.eu/playlist?list=PLPdtS77PaSusd3XWZQSfDlK7On5B1fXXT
 
+Hacker-Rank-Codes. Github repository.
+
+https://github.com/Venkadesh-coder/Hacker-Rank-Codes
+
+HackerRank-Certification. Github repository.
+
+https://github.com/Psingh12354/HackerRank-Certification
