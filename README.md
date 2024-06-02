@@ -60,7 +60,6 @@ https://github.com/MarkusFriemann/HackerRank/blob/main/New%20Companies
 Youngest Employees sql - YouTube
 https://www.youtube.com/results?search_query=Youngest+Employees+sql
 
-
 database - MySQL query to find the name and age of the youngest employee in each department - Stack Overflow
 https://stackoverflow.com/questions/15530947/mysql-query-to-find-the-name-and-age-of-the-youngest-employee-in-each-department
 
