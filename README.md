@@ -28,8 +28,9 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 
   https://yt.artemislena.eu/search?q=python+hackerrank+question
 
-python getMaxValue hackerrank - Invidious
-https://yt.artemislena.eu/search?q=python+getMaxValue+hackerrank+
+7 - python getMaxValue hackerrank - Invidious
+
+  https://yt.artemislena.eu/search?q=python+getMaxValue+hackerrank+
 
 HackerRank 2D array
 https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
