@@ -12,7 +12,7 @@ https://github.com/thinhphan1122/HackerRank-Software-Engineer-Intern-Role-Test/b
 
 https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true
 
-3 - Software-Engineer-Role-Certification-Test-HackerRank/Scheduling Errors/Scheduling Errors.sql at main · hoanganhminh/Software-Engineer-Role-Certification-Test-HackerRank
+3 - Software-Engineer-Role-Certification-Test-HackerRank/Scheduling Errors/Scheduling Errors.sql at main · hoanganhminh/Software-Engineer-Role-Certification-Test-HackerRank.
 
 https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-HackerRank/blob/main/Scheduling%20Errors/Scheduling%20Errors.sql
 
