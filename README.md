@@ -20,7 +20,7 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
   
   https://github.com/morganm94?tab=repositories
 
-5 - decoderwhoami (Decoder Whoami)
+5 - decoderwhoami (Decoder Whoami).
 
   https://github.com/decoderwhoami
 
