@@ -32,8 +32,9 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 
   https://yt.artemislena.eu/search?q=python+getMaxValue+hackerrank+
 
-HackerRank 2D array
-https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
+8 - HackerRank 2D array
+
+  https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
 
 7 Advanced SQL Interview Questions For 2022 - HackerRank Blog
 https://www.hackerrank.com/blog/advanced-sql-interview-questions/
