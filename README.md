@@ -24,7 +24,7 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 
   https://github.com/decoderwhoami
 
-6 - Python hackerrank question - Invidious
+6 - Python hackerrank question - Invidious.
 
   https://yt.artemislena.eu/search?q=python+hackerrank+question
 
