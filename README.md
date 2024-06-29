@@ -37,7 +37,8 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
   https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
 
 9 - 7 Advanced SQL Interview Questions For 2022 - HackerRank Blog.
-https://www.hackerrank.com/blog/advanced-sql-interview-questions/
+
+  https://www.hackerrank.com/blog/advanced-sql-interview-questions/
 
 15 Days of Learning SQL | HackerRank
 https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true
