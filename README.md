@@ -32,7 +32,7 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 
   https://yt.artemislena.eu/search?q=python+getMaxValue+hackerrank+
 
-8 - HackerRank 2D array
+8 - HackerRank 2D array.
 
   https://gist.github.com/arsho/b3d5d0b98a4dc2dffd9b
 
