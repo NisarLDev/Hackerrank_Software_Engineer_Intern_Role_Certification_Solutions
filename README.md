@@ -40,8 +40,9 @@ https://github.com/hoanganhminh/Software-Engineer-Role-Certification-Test-Hacker
 
   https://www.hackerrank.com/blog/advanced-sql-interview-questions/
 
-15 Days of Learning SQL | HackerRank
-https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true
+10 - 15 Days of Learning SQL | HackerRank.
+
+  https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true
 
 Challenge Question: 15 Days of Learning SQL - YouTube
 https://www.youtube.com/results?search_query=Challenge+Question%3A+15+Days+of+Learning+SQL
